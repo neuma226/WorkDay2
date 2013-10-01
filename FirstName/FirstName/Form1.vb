@@ -20,7 +20,7 @@ Public Class Form1
         firstname = FullName.Substring(0, idxSpace)
 
         'Display the result to the user
-        txtFirstName.Text = firstname
+        txtfirstName.Text = firstname
 
 
     End Sub
